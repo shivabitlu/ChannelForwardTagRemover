@@ -7,11 +7,11 @@
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "11512062"6144307926:AAFVmaiIxAXmSBHOktHY3h4aMSaa4TLCS_g
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "c61857f493849e8312e7fad21a61feeb"
 }
   },
   "buildpacks": [
